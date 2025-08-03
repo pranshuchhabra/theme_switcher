@@ -33,7 +33,7 @@ The app demonstrates theme persistence, responsive design, sidebar layouts, and 
 - **Redux Toolkit** for managing theme and product data.
 - Theme preference persisted in `localStorage`.
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 - **React 18**
 - **TypeScript**
