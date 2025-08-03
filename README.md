@@ -1,4 +1,4 @@
-# Multi-Theme Switcher React App
+# Multi-Theme Switcher App
 
 A responsive React + TypeScript + Redux + Tailwind CSS application with **three distinct themes** that change colors, fonts, layout, and structure.  
 The app demonstrates theme persistence, responsive design, sidebar layouts, and dynamic styling.
